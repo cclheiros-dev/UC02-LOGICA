@@ -1,0 +1,16 @@
+1;
+//Passo ---------------------------------| distanciaViagem ---|consumoCarro--------| precoLitro --|litros----------|custo--------------| Saída  
+//leia(distanciaViagem)                   | [50]                |  [?]             |  [?]         |  [?]           |  [?]              |  [?] e [?]
+//leia(consumoCarro)                      | [50]                |  [20]            |  [?]         |  [?]           |  [?]              |  [?] e [?]
+//leia(precoLitro)                        | [50]                |  [20]            |  [5]         |  [?]           |  [?]              |  [?] e [?]
+//litros = distanciaViagem * consumoCarro | [50]                |  [20]            |  [5]         |  [50 / 20]     |  [?]              |  [?] e [?]
+//custo = litros * precoLitro             | [50]                |  [20]            |  [5]         |  [50 / 20]     |  [2,5 * 5]        |  [?] e [?]
+//Escreva = custo                         | [50]                |  [20]            |  [5]         |  [50 / 20]     |  [2,5 * 5]        |  [2,5] e [12,5]
+
+2;
+//Passo --------------------------------------------------------| distanciaViagem ---|consumoCarro------| precoLitro ----|litros-----------------------------| Saída  
+//leia(distanciaViagem)                                         | [0]                |  [?]             |  [?]           |  [?]           |  [?]             |  [?] e [?]
+//leia(consumoCarro)                                            | [0]                |  [20]            |  [?]           |  [?]           |  [?]             |  [?] e [?]
+//leia(precoLitro)                                              | [0]                |  [20]            |  [5]           |  [?]           |  [?]             |  [?] e [?]
+//se(distanciaViagem == 0 ou consumoCarro == 0                  | [0]                |  [20]            |  [5]           |  [?]           |  [?]             |  [?] e [?]   
+//escreva ("Valor informado não pode ser equivalente a 0!")     | [0]                |  [20]            |  [5]           |  [?]           |  [?]             |escreva ("Valor informado não pode ser equivalente a 0!")
